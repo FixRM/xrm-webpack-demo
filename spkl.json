@@ -1,0 +1,16 @@
+{
+  "webresources": [
+    {
+      "profile": "default,debug",
+      "root": "dist",
+      "solution": "BulletProofProjectTemplate",
+      "files": [
+        {
+          "uniquename": "bpt_/forms/main.js",
+          "file": "main.js",
+          "description": "Go TypeScript"
+        }
+      ]
+    }
+  ]
+}
